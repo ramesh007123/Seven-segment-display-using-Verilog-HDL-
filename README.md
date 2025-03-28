@@ -68,7 +68,9 @@ endmodule
 ```
 ## Simulated Output
 
-_____ Keep Simulated output ___________
+![WhatsApp Image 2025-03-24 at 15 22 09_70f9938e](https://github.com/user-attachments/assets/ad08b9e2-aed3-4e1f-8d67-8c61f4208afb)
+
+_____  ___________
 
 
 ## Testbench for Seven-Segment Display
